@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working on upskilling myself within the tech space
-- 🌱 I’m currently learning Cloud Computing through the Learn To Cloud self-paced course
-- 👯 I’m looking to collaborate on all things cloud
+- 🌱 I’m currently learning _Cloud Computing_ through the **Learn To Cloud** self-paced course
+- 👯 I’m looking to collaborate on all things cloud as I move into the cloud space
